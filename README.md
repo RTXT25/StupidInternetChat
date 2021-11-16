@@ -1,4 +1,4 @@
 # StupidInternetChat
-Internet chat in the issues
+Internet chat in the Discussions
 
 rules in wiki
